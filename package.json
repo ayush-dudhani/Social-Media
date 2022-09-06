@@ -2,7 +2,7 @@
   "name": "social",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ayush-dudhani.github.io",
+  "homepage": "https://ayush-dudhani.github.io/Social-Media",
   "dependencies": {
     "-": "^0.0.1",
     "@emotion/react": "^11.10.4",
